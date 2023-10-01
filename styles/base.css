@@ -8,10 +8,13 @@ a {
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: whitesmoke;
-    display: grid;
     
-    grid-template-columns: auto;
-    grid-template-rows: auto auto auto auto;
+    
+}
+
+img {
+    justify-self: center;
+    width: 15%;
     
 }
 

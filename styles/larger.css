@@ -1,4 +1,4 @@
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 512px) {
     
     nav {
         display: flex;
@@ -8,7 +8,7 @@
     }
 
     .nav-links {
-        display: flex;
+    
         flex-direction: row;
     }
 
